@@ -15,7 +15,7 @@ input[type=text], input[type=password] {
 
 /* Set a style for all buttons */
 button {
-  background-color: #f22f7e;
+  background-color:  #222f3d;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -33,7 +33,7 @@ button:hover {
 .cancelbtn {
   width: auto;
   padding: 10px 18px;
-  background-color: #776867;
+  background-color: rgb(160 153 156);
 }
 
 /* Center the avatar image inside this container */
@@ -59,7 +59,7 @@ img.avatar {
 /* Add padding to containers */
 .container {
   width: 40%;
-  background-color: rgb(237, 204, 221);
+  background-color: #878383; 
   padding: 16px;
 }
 

@@ -1,10 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 h1{
     color: #0f1111;
     margin: 10px 0px;
     text-shadow:2px 2px #222f3d;
+    text-align: center;
 }
 .cart-sec {
-    background-color:  #878383;
+    background-color:  #dedddd;
     height: 100%;
-    width: 100%;
-}
+    width: 60vw;
+    margin: 0px 200px ;
+    /* display: flexbox; */
+ }
+ .item-name {
+    border: 2px solid black;
+    width: 59.8vw;
+    height: 100vh;
+ }
+ /* .item-price {
+    border: 2px solid black;
+    width: 20vw;
+    height: 100vh;
+
+ } */
